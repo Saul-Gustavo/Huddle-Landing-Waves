@@ -91,6 +91,7 @@ body {
 
 .hero-title {
     font-family: var(--poppins-h);
+    font-size: 2rem;
 }
 
 .hero-p {
