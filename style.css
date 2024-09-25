@@ -309,6 +309,23 @@ body {
     background-color: #10aed6;
 }
 
+.attribution {
+    font-size: 0.9rem;
+    text-align: center;
+    background-color: var(--very-dark-cyan);
+    color: white;
+    padding: 10px;
+}
+
+.attribution a {
+    color: white;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    color: var(--pink);
+}
+
 
 @media (min-width: 768px) {
     .header {
